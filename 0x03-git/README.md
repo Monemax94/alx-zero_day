@@ -1,1 +1,1 @@
-This readme is for 0x03-git.
+This is 0x03-git readme file.
